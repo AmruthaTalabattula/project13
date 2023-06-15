@@ -1,13 +1,18 @@
 
 ✨ Glory Luxe  ✨
-
-This is a web based application developed for health related telugu based website in india
+-
+- This is a web based application developed for health related telugu based website in india
 
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 **Project Link** - https://gentle-pond-0cf0f3b00.3.azurestaticapps.net/
 **Project demo video Link** -
+
+AZURE TECHNOLOGIES USED FOR PROJECT
+- 
+-static web development
+-health bot
 
 
 ## Features and Functionalities 😃
@@ -30,17 +35,20 @@ This is a web based application developed for health related telugu based websit
 
 
 
-![Screenshot 2022-03-07 090859](https://user-images.githubusercontent.com/98517345/156963803-135e9564-ca95-458e-9074-0d7aa2f7d586.jpg)
+
+![Screenshot (10)](https://github.com/AmruthaTalabattula/project13/assets/123611308/580655cd-2400-486f-9747-dd793c644390)
 
 
 ### health bot
 
-![glory luxe](https://github.com/AmruthaTalabattula/project13/assets/123611308/63fdc837-35b3-4119-93e0-bb79e0704757)
-
-### Privacy policy -
 
 
-![Screenshot 2022-03-07 090943](https://user-images.githubusercontent.com/98517345/156963849-e8ead038-b9ea-4320-9165-9f99cf00d9d2.jpg)
+
+![Screenshot (9)](https://github.com/AmruthaTalabattula/project13/assets/123611308/3442f535-ea04-44f8-a78a-774d07c697db)
+
+
+
+
 
 
 
