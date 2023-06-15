@@ -7,7 +7,7 @@
 
 
 **Project Link** - https://gentle-pond-0cf0f3b00.3.azurestaticapps.net/
-**Project demo video Link** -
+**Project demo video Link** -https://youtu.be/x0g8yORyGoY
 
 AZURE TECHNOLOGIES USED FOR PROJECT
 - 
